@@ -22,3 +22,6 @@ console.log(user.friends[0].phone?.ddd)
 console.log(user?.brothers?.length)
 
 console.log(user.brothers?.[5].name)
+
+//essa ? serve pra substituir um IF que faz a verificação se é ou não undefined
+//ele faz a leitura, se for nulo ele para de ler...
