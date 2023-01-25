@@ -1,4 +1,5 @@
 //npm install --save-dev mini-css-extract-plugin
+// ok
 
 const path = require('path')
 const MiniCssExtractPlugin = require('mini-css-extract-plugin')
