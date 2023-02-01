@@ -2,6 +2,7 @@
 //ele roda a aplicação integrado ao webpack
 //npm i -D webpack-dev-server
 //npx webpack-dev-server
+//ok
 
 const path = require('path')
 
